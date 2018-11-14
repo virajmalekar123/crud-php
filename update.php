@@ -41,7 +41,7 @@ if(isset($_POST['submit'])){
   crossorigin="anonymous"></script>
 </head>
 <body>
-  <div class = "col-lg-6 m-auto">
+  <div class = "col-lg-6 m-auto p-auto">
   <form method="POST">
      <br><br><div class = "card">
      <div class = "card-header bg-dark">
